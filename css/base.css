@@ -18,7 +18,7 @@
 .top .right a:hover,.top .right a.on{border-bottom:3px solid #fff}
 .foot{width:100%;max-width:1920px;height:70px;background:#000;position:relative;margin:auto;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-align-items:center;-moz-align-items:center;-ms-align-items:center;align-items:center;-ms-flex-align:center}
 .foot .line{display:block;position:absolute;width:100%;height:2px;top:-2px;left:0;background-color:#c30000;background-image:-webkit-gradient(linear,left top,right top,from(#c30000),to(#000));background-image:-webkit-linear-gradient(left,#c30000,#000);background-image:-moz-linear-gradient(left,#c30000,#000);background-image:-ms-linear-gradient(left,#c30000,#000);background-image:-o-linear-gradient(left,#c30000,#000);background-image:linear-gradient(left,#c30000,#000)}
-.foot .b1_icon{margin-right:20px;margin-left:30px;display:block;width:118px;height:45px;background:url(https://b1shine.iiyudana.net/imgs/icon.png) 0 0 no-repeat}
+.foot .b1_icon{margin-right:20px;margin-left:30px;display:block;width:118px;height:45px;background:url(https://raw.githubusercontent.com/Yuu-golang/b1shine.iiyudana/master/imgs/icon.png) 0 0 no-repeat}
 .foot p{color:#999;font-size:12px}
 .foot p span{display:block}
 .foot .txt{font-size:12px;color:#999;margin-left:20px}
